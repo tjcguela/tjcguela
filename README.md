@@ -1,9 +1,9 @@
 ## 🤠 Alooo, I'm Tim! ...and I code n stuff, hehe
 
-👨‍🎓 I am in my senior year studying [Computer Science](https://mcl.edu.ph/academics/college-of-computer-and-information-science/) at Mapua Malayan Colleges Laguna, Philippines </br>
-💭 Currently learning about data analytics, data viz, and ui/ux </br>
-🎨 Apart from programming, I also enjoy painting (digitally) from time to time </br>
-👨‍🔬 Just about getting started on my [bioinformatics journey](https://www.youtube.com/watch?v=plVLRashaA8&list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP) 😊 </br>
+* I am in my senior year studying [Computer Science](https://mcl.edu.ph/academics/college-of-computer-and-information-science/) at Mapua Malayan Colleges Laguna, Philippines </br>
+* Currently learning about data analytics, data viz, and ui/ux </br>
+* Apart from programming, I also enjoy painting (digitally) from time to time </br>
+* Just about getting started on my [bioinformatics journey](https://www.youtube.com/watch?v=plVLRashaA8&list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP) 😊 </br>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjcguela&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
