@@ -1,7 +1,7 @@
 ## 🤠 Alooo, I'm Tim! ...and I code n stuff, hehe
 
 * I am in my senior year studying [Computer Science](https://mcl.edu.ph/academics/college-of-computer-and-information-science/) at Mapua Malayan Colleges Laguna, Philippines </br>
-* Currently learning about data analytics, data viz, and ui/ux </br>
+* Currently learning about data science and its sub-branches </br>
 * Apart from programming, I also enjoy painting (digitally) from time to time </br>
 * Just about getting started on my bioinformatics journey through this [tutorial](https://www.youtube.com/watch?v=plVLRashaA8&list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP) 😊 </br>
 
