@@ -5,8 +5,49 @@
 * Apart from programming, I also enjoy painting (digitally) from time to time </br>
 * Just about getting started on my bioinformatics journey through this [tutorial](https://www.youtube.com/watch?v=plVLRashaA8&list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP) 😊 </br>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjcguela&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 👨‍💻 Featured Projects
+
+<table align="center">
+  <thead>
+    <th>
+      <a href="https://github.com/tjcguela/matcha-cafe"> Matcha, Matcha, Much! </a>
+    </th>
+    <th>
+      <a href="https://github.com/tjcguela/weebsite-v2" >
+         Weebsite
+      </a>
+    </th>
+    <th>
+      <a href="https://github.com/tjcguela/2FA_basicLogin_CNN">
+        2FA using OpenCV2
+      </a>
+    </th>
+  </thead>
+
+  <tbody>
+    <tr>
+      <!-- Column 1 -->
+      <td>
+        <div align="center" >
+          <img height="250" alt="matcha-home" src="https://github.com/user-attachments/assets/ffd764b1-8ad0-41df-af43-0bf0a43b3b2c" />
+        </div>  
+      </td>
+      <!-- Column 2 -->
+      <td>
+        <div align="center">
+          <img height="250" alt="weebsite-profile" src="https://github.com/user-attachments/assets/72bf6aaf-3459-49c4-8f91-2bfa4a8123be" />
+          <img height="250" alt="weebsite-profile" src="https://github.com/user-attachments/assets/2e5ca964-6be2-4e81-8519-72c750bc2aa7" />
+        </div>  
+      </td>
+      <!-- Column 3 -->
+      <td>
+        <div align="center" >
+          <img height="250" alt="face-recog-2fa" src="https://github.com/user-attachments/assets/de2a2d30-04f2-4b47-9263-76a4c19ac5a3" />
+        </div>  
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 💻 Tech Stacks 
 <!-- https://github.com/Ileriayo/markdown-badges -->
@@ -27,10 +68,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)</br> <!-- Design Stuff Ends Here -->
 
-## 👨‍💻 Featured Projects
-🚧🚧🚧 Currently under construction... Will get back to this =) 🚧🚧🚧
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjcguela&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-P.S. If you want to make a GitHub profile README like this, check out [Magdeline's tutorial!](https://www.youtube.com/watch?v=DWFs6aqknqw&t=183s) 👀
+> [!NOTE]
+> If you want to make a GitHub profile README like this, check out [Magdeline's tutorial!](https://www.youtube.com/watch?v=DWFs6aqknqw&t=183s) 👀
