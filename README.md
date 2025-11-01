@@ -36,13 +36,12 @@
       <td>
         <div align="center">
           <img height="250" alt="weebsite-profile" src="https://github.com/user-attachments/assets/72bf6aaf-3459-49c4-8f91-2bfa4a8123be" />
-          <img height="250" alt="weebsite-profile" src="https://github.com/user-attachments/assets/2e5ca964-6be2-4e81-8519-72c750bc2aa7" />
         </div>  
       </td>
       <!-- Column 3 -->
       <td>
         <div align="center" >
-          <img height="250" alt="face-recog-2fa" src="https://github.com/user-attachments/assets/de2a2d30-04f2-4b47-9263-76a4c19ac5a3" />
+          <img height="200" alt="face-recog-2fa" src="https://github.com/user-attachments/assets/de2a2d30-04f2-4b47-9263-76a4c19ac5a3" />
         </div>  
       </td>
     </tr>
