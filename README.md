@@ -1,9 +1,8 @@
 ## 🤠 Alooo, I'm Tim! ...and I code n stuff, hehe
 
-* I am in my senior year studying [Computer Science](https://mcl.edu.ph/academics/college-of-computer-and-information-science/) at Mapua Malayan Colleges Laguna, Philippines </br>
-* Currently learning about data science and its sub-branches </br>
-* Apart from programming, I also enjoy painting (digitally) from time to time </br>
-* Just about getting started on my bioinformatics journey through this [tutorial](https://www.youtube.com/watch?v=plVLRashaA8&list=PLtqF5YXg7GLlQJUv9XJ3RWdd5VYGwBHrP) 😊 </br>
+* [Computer Science](https://mcl.edu.ph/academics/college-of-computer-and-information-science/) Student at Mapua Malayan Colleges Laguna, Philippines </br>
+* Specializing in data science with a keen interest in <strong>Bioinformatics </strong> </br>
+* Apart from programming, I play games (slay the spire ~!), read books (mainly nonfiction), and sing songs (karaoke go-to right now is The Subway by Chapelle Roan) </br>
 
 ## 👨‍💻 Featured Projects
 
