@@ -3,6 +3,7 @@
 * [Computer Science](https://mcl.edu.ph/academics/college-of-computer-and-information-science/) Student at Mapua Malayan Colleges Laguna, Philippines </br>
 * Specializing in data science with a keen interest in <strong>Bioinformatics </strong> </br>
 * Apart from programming, I play games (slay the spire ~!), read books (mainly nonfiction), and sing songs (karaoke go-to right now is The Subway by Chapelle Roan) </br>
+* You can reach me @ tjcguela@gmail.com =)
 
 ## 👨‍💻 Featured Projects
 
