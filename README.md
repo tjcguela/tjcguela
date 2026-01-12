@@ -66,8 +66,5 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)</br> <!-- Design Stuff Ends Here -->
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjcguela&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 > [!NOTE]
 > If you want to make a GitHub profile README like this, check out [Magdeline's tutorial!](https://www.youtube.com/watch?v=DWFs6aqknqw&t=183s) 👀
